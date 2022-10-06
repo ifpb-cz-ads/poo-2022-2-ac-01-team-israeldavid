@@ -5,9 +5,9 @@
  * @author Israel Oliveira
  * @version 05/10/2022
  */
-public class MeuPrograma
+public class meuprogramastart
 {
-    public static void main(String[] args) {
+    public static void start(String[] args) {
         System.out.println("Terminei a primeira aula com um programa Java!");
     }
 }
